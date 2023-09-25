@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+
+  "headersXML": {
+    "Content-Type": "text/xml; charset=utf-8"
+  },
+  "expectedUserId": 2,
+  "expectedEmail": "janet.weaver@reqres.in",
+  "expectedFirstName": "Janet",
+  "expectedLastName": "Weaver",
+  "expectedAvatar": "https://reqres.in/img/faces/2-image.jpg",
+  "expectedWord":"five hundred ",
+  "expectedWord2": "Washington"
+}

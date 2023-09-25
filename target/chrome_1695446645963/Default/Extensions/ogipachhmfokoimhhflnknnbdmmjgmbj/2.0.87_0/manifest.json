@@ -1,0 +1,21 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Forcepoint Endpoint Chrome Extension for Windows.",
+   "icons": {
+      "128": "icon-128.png",
+      "48": "icon-48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkIACWB8lg4LCs5INLLZ83TRPKO2hVNeX8iaN+2cHwq93tKHWmVyAVqb6SPHlSmbie34cSj6SmnNc3iUzFwBK7QiS/DX37jBj1Dw2cXrtcsIeWhmtuJTNieUjSDKF//ElQnpNY5qn//tXfoptXkkVM5TGJxXLEfYpI6TFIGPhntkCMy3wy0sFvDOGFZDIddWZyg4SRQR9kYE4Ro417j64uGsWNiNO6agoB7p3T9WRTkKT7ltMJiZjaoWcLfNdQPnja80n74uEiIDTg/Myk/lSBB3Vt0aDrk17LkwL8LLNIH3lt2HB7f3ixVcW02MLFaKWKAGxttYyPJculR2ZBGbiRQIDAQAB",
+   "manifest_version": 2,
+   "name": "Forcepoint Endpoint for Windows",
+   "permissions": [ "pageCapture", "webRequest", "webRequestBlocking", "nativeMessaging", "tabs", "http://*/*", "https://*/*", "file:///" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.87"
+}

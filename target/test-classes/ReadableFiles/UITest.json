@@ -1,0 +1,50 @@
+{
+  "Scenario1": {
+    "baseurl": "https://practicetestautomation.com",
+    "usernameValid": "student",
+    "password": "Password123"
+  },
+  "Scenario2": {
+    "baseurl": "https://practicetestautomation.com",
+    "usernameInvalid": "incorrectuser",
+    "password": "Password123"
+  },
+  "Scenario3": {
+    "baseurl": "https://demowebshop.tricentis.com/",
+    "Firstname": "John",
+    "Lastname": "Daniel",
+    "Email": "doxejan9899@fitwl.com",
+    "Password": "Password123",
+    "ConfirmPassword": "Password123"
+  },
+  "Scenario4": {
+    "baseurl": "https://demowebshop.tricentis.com/",
+    "LoginEmail": "saranyas@gmail.com",
+    "LoginPassword": "Saranya@21",
+    "City": "Bangalore",
+    "Address": "26,Nehru Street Bangalore",
+    "Zipcode": "678543",
+    "MobileNumber": "9876554321"
+  },
+  "SwagLab":{
+    "baseurl": "https://www.saucedemo.com/"
+  },
+  "DatePicker": {
+    "Datepicker": "08/21/1997",
+    "baseurl1": "https://dequeuniversity.com/library/aria/date-picker",
+    "FName": "Saranya",
+    "LName": "Saran",
+    "Address1": "201,Thambaram",
+    "Street": "Nehru Street",
+    "City1": "Chennai",
+    "Mobilenumber": "9087564321",
+    "Email1": "ss@gmail.com",
+    "Date1": "08/01/2023",
+    "Text": "Iframe"
+  },
+  "Image": {
+
+  }
+
+
+}

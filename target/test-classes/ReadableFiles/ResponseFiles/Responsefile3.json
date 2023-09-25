@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": 4,
+    "name": "aqua sky",
+    "year": 2003,
+    "color": "#7BC4C4",
+    "pantone_value": "14-4811"
+  },
+  "support": {
+    "url": "https://reqres.in/#support-heading",
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}

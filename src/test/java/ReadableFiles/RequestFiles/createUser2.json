@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 22,
+        "email": "jack.ethan@reqres.in",
+        "first_name": "Jack",
+        "last_name": "Ethan",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}

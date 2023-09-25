@@ -1,0 +1,5 @@
+{
+ "email": "#(config.email)",
+ "first_name": "#(config.first_name)",
+ "last_name": "#(config.last_name)"
+}
